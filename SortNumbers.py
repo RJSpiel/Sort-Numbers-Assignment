@@ -30,3 +30,4 @@ elif userInput2 < userInput1 and userInput2 < userInput3:
     print(userInput2)
 elif userInput3 < userInput1 and userInput3 < userInput2:
     print(userInput3)
+    
